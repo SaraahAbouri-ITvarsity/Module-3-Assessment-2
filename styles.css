@@ -106,7 +106,7 @@ a{
     text-decoration: none;
 }
 .meals{
-    background-image: url(/images1/food-land.jpeg) ;
+    background-color: black ;
     background-repeat: repeat-y;
     background-size: 110%; 
     backdrop-filter: blur(8px);
@@ -170,7 +170,7 @@ h5{
 
 /* DESERT PAGE */
 .desert{
-    background-image: url(/images1/oreoland.jpeg) ;
+    background-color: black ;
     background-repeat: repeat-y;
     background-size: 100%;
     backdrop-filter: blur(8px);
@@ -178,7 +178,7 @@ h5{
 }
 /* BEVERAGE PAGE */
 .beverage{
-    background-image: url(/images1/back.jpg) ;
+    background-color: black ;
     background-repeat: repeat-y;
     background-size: 100%; 
     backdrop-filter: blur(8px); 
@@ -186,7 +186,7 @@ h5{
 }
 /* ABOUT PAGE */
 .about{
-    background-image: url(/images1/cherry.jpg) ;
+    background-color: black ;
     background-repeat: repeat-y;
     background-size: 130%;
     backdrop-filter: blur(8px); 
