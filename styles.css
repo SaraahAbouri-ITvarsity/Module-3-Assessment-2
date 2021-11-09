@@ -106,7 +106,7 @@ a{
     text-decoration: none;
 }
 .meals{
-    background-image: url(/images/food\ land.jpeg) ;
+    background-image: url(/images/food-land.jpeg) ;
     background-repeat: repeat-y;
     background-size: 110%; 
     backdrop-filter: blur(8px);
@@ -170,7 +170,7 @@ h5{
 
 /* DESERT PAGE */
 .desert{
-    background-image: url(/images/oreo\ land.jpeg) ;
+    background-image: url(/images/oreo-land.jpeg) ;
     background-repeat: repeat-y;
     background-size: 100%;
     backdrop-filter: blur(8px);
@@ -277,14 +277,6 @@ h5{
         
     }
 
-    .meals{
-        background-image: url(/images/food\ port.jpeg) ;
-        background-repeat: repeat-y;
-        background-size: 100%; 
-        backdrop-filter: blur(8px);
-        margin: 0;
-        
-    }
 
     .menu-bar{
         height: 90px;
