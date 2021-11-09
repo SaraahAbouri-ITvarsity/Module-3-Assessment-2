@@ -106,7 +106,7 @@ a{
     text-decoration: none;
 }
 .meals{
-    background-image: url(/images/new1.jpg) ;
+    background-image: url(/images/food-land.jpeg) ;
     background-repeat: repeat-y;
     background-size: 110%; 
     backdrop-filter: blur(8px);
@@ -274,6 +274,15 @@ h5{
         align-items: center;
         
 
+        
+    }
+
+    .meals{
+        background-image: url(/images/food-port.jpeg) ;
+        background-repeat: repeat-y;
+        background-size: 110%; 
+        backdrop-filter: blur(8px);
+        margin: 0;
         
     }
 
