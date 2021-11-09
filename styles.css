@@ -277,6 +277,15 @@ h5{
         
     }
 
+    .meals{
+        background-image: url(/images/food\ port.jpeg) ;
+        background-repeat: repeat-y;
+        background-size: 100%; 
+        backdrop-filter: blur(8px);
+        margin: 0;
+        
+    }
+
     .menu-bar{
         height: 90px;
         width: 100%;
